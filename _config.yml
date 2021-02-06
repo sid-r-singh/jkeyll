@@ -1,8 +1,6 @@
 # Site settings
 title: "sobolevn's personal blog"
-description:
-  On good software, mediocre software, and bad software.
-  Also rants about management and development processes.
+description: "On good software, mediocre software, and bad software."
 
 author: Nikita Sobolev
 email: mail@sobolevn.me
