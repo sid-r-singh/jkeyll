@@ -7,7 +7,7 @@ email: mail@sobolevn.me
 username: sobolevn
 
 baseurl: "https://sidrana.dev/" # the subpath of your site, e.g. /blog
-url: "/jkeyll # the base hostname & protocol for your site
+url: "/jkeyll" # the base hostname & protocol for your site
 
 github_edit_url: "https://github.com/sid-r-singh/jkeyll/blob/master"
 disqus_id: sobolevn-me
