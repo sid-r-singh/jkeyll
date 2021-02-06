@@ -11,7 +11,7 @@ username: sobolevn
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sidrana.dev/jkeyll # the base hostname & protocol for your site
 
-github_edit_url: "https://github.com/sobolevn/sobolevn.github.io/blob/master"
+github_edit_url: "https://github.com/sid-r-singh/jkeyll/blob/master"
 disqus_id: sobolevn-me
 
 # Build settings
